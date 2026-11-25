@@ -1,0 +1,1 @@
+Copy best_v3.pt here from Kaggle training output. The notebook is not a trained model.

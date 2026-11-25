@@ -1,0 +1,38 @@
+[
+ {
+  "id": "VIDEO-07C80C81",
+  "road": "taif highway",
+  "lat": 24.85371899540062,
+  "lng": 46.71237142761868,
+  "severity": "warning",
+  "confidence": 0.868,
+  "description": "Dashcam video · camel detected",
+  "source": "manual_video",
+  "report_count": 1,
+  "status": "resolved",
+  "detected_at": "2026-11-25T11:25:25.599176+00:00",
+  "expires_at": "2026-11-25T12:25:25.599176+00:00",
+  "video_url": "/api/reports/video/c318c0f4a797/file",
+  "verified": false,
+  "video_job_id": "c318c0f4a797",
+  "video_time": 4.27
+ },
+ {
+  "id": "VIDEO-91490650",
+  "road": "taif highway",
+  "lat": 24.8537188514121,
+  "lng": 46.70686523380027,
+  "severity": "warning",
+  "confidence": 0.921,
+  "description": "Dashcam video · camel detected",
+  "source": "manual_video",
+  "report_count": 1,
+  "status": "resolved",
+  "detected_at": "2026-11-25T11:25:53.915111+00:00",
+  "expires_at": "2026-11-25T12:25:53.915111+00:00",
+  "video_url": "/api/reports/video/c318c0f4a797/file",
+  "verified": false,
+  "video_job_id": "c318c0f4a797",
+  "video_time": 24.27
+ }
+]
