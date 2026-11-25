@@ -1,0 +1,6 @@
+streamlit>=1.40
+ultralytics
+opencv-python-headless
+lap
+pandas
+numpy
